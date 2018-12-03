@@ -10,7 +10,11 @@ form = """
 <html>
     <head>
     
+<<<<<<< HEAD
+        <style>t
+=======
         <style>
+>>>>>>> e1daf7ca6c31f22af00697318a50e50b8127acd0
             form {{
                 background-color: #eee;
                 padding: 20px;
